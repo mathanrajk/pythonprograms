@@ -1,4 +1,4 @@
-from array import array
+
 
 
 array=[4,6,2,9,7,0,9,10]

@@ -5,7 +5,7 @@ numbers =int(input("enter the number"))
 l=len(str(numbers))
 sum=0
 temp=numbers
-while temp>0:
+while temp>0:   
     dig=temp%10
     sum+=dig**l
     temp=temp//10
